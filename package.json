@@ -1,0 +1,22 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Show a list of Pokemon",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitcherpb/pokedex.git"
+  },
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pitcherpb/pokedex/issues"
+  },
+  "homepage": "https://github.com/pitcherpb/pokedex",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
